@@ -1,0 +1,10 @@
+Name,Department,Salary
+A,IOT,10000
+B,Data Science ,2000
+A,Data Science ,10009
+C,AI,20000
+D,Data Science ,10000
+B ,AI,10000
+A ,ML,1000
+D,ML,9000
+E,DL,3000
